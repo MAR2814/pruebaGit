@@ -15,7 +15,7 @@ public class unaClase {
         
     }
     public void sinMetodo(){
-        System.out.println("Hola");
+        System.out.println("chau");
 }
 }
 
