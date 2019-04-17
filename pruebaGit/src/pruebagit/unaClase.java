@@ -12,7 +12,6 @@ package pruebagit;
 public class unaClase {
     public void unMetodo(){
         System.out.println("Hola!");
-        
     }
     public void sinMetodo(){
         System.out.println("chau");
